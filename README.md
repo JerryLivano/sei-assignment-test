@@ -10,5 +10,5 @@
 7. Pada browser, masukkan link 'localhost:3000'
 
 ## Account
-username: jerry
+username: jerry <br>
 password: 12345
